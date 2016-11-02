@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "III ANPUH-AM"
 email: "anpuhamazonas@gmail.com"
 description: " Estado Democrático de Direito e o Respeito a Diversidade"
-baseurl: ""
+baseurl: "/zeppelin"
 url: "https://kirmayrtomaz.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: ""
 organizerAlternateName: "ANPUH-AM"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "ANPUH-AM"
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Início"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programacao/", text: "Programação"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
