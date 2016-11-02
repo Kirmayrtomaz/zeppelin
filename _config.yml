@@ -45,14 +45,14 @@ navigationLinks:
  - {permalink: "/", text: "Início"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programacao/", text: "Programação"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Comprar Ticket"}
+ - {link: "#tickets", text: "Comprar Ingresso"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Comprar Ingresso"}
+ - {link: "#tickets", text: "Comprar Ingresso"}
 
 # Hero Block
 heroImage: "teste.jpg"
@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "III Encontro ANPUH-AM"
 aboutBlock:
- - {title: "Conferência", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Oficinas", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-   # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferência", image: "conference.jpg", text: "" }
+ - {title: "Oficinas", image: "workshop.jpg", text: "" }
+ - {title: "Simpósios Temáticos", image: "hackathon.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -90,19 +90,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Uninorte"
+eventLocationName: "Teatro Uninorte"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "-3.119028,-60.021731 "
-mapCenterCoordinates: "-3.128438,-60.020746"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventStreetAddress: "Av. Joaquim Nabuco, 1232 - Centro, Manaus - AM, 69020-031"
+eventAddressLocality: "Centro"
+eventAddressLocalityRegion: ""
+eventPostalCode: "69020-031"
+eventAddressCountry: "Manaus"
+eventStartTime: "2016-11-17T18:00"
+eventDoorTime: "21:00"
+eventEndTime: "2016-11-18T21:00"
+eventPlaceCoordinates: "-3.1307273,-60.0187562"
+mapCenterCoordinates: "-3.1307273,-60.0187562"
+mapMobileCenterCoordinates: "-3.1307273,-60.0187562"
 
 # Venue Block
 venueBlockTitle: "Venue"
