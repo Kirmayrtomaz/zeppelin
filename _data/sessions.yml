@@ -1,9 +1,10 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Degustação"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "comidas típicas da cultura afro,
+    indígena e regional)"
 -
   id: 503
   title: "Lunch Break"
@@ -11,49 +12,82 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Escravidão Negra no Grão-Pará (séculos XVII e XIX)"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+ # language: pt_br
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Negros da Amazônia e a conquista de direitos após a CF/1988"
+  description: ""
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [2]
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 101
+  title: "Religiões e religiosidades no Brasil entre os séculos XVI e XIX"
+  description: "É bem conhecida a importância que as religiões e as religiosidades tiveram na construção das sociedades em todas as épocas da História. O Brasil não pode compreender a sua história sem conhecer a história da Igreja. É, contudo, ainda bastante deficitária a historiografia sobre as religiões e as religiosidades no território brasileiro entre os séculos XVI e XIX. Daí a proposta deste simpósio temático, que visa reunir comunicações sobre esse tema, nos mais variados aspetos, tais como: aportações teóricas e reflexões historiográficas acerca de conceitos e métodos para o estudo da História Religiosa; religiões e normatividades (códigos normativos, tribunais episcopais, Inquisição); a arte e a religião; religiosidades populares, vivências e práticas religiosas; as relações entre a Igreja e o Estado; as relações entre o clero regular e o clero secular; territorialização da(s) Igreja(s) no Brasil/Amazonas; evangelização e alteridade; irmandades e confrarias." 
+  subtype: presentation
+  speakers: [3]
+-
+  id: 102
+  title: "História da Saúde e da Doença na Amazônia"
+  description: "Tendo em conta que a história das doenças deixou de ser uma preocupação exclusiva dos médicos, há que se realçar que a temática vem sendo cada vez mais problematizada pela História, possibilitando o surgimento de um campo de estudos que podemos denominar de História da Saúde e das Doenças. Apesar de a doença ser uma manifestação biológica, ela manifesta-se num tempo histórico. Na Amazônia, as manifestações epidêmicas tanto significaram a morte de inúmeros povos indígenas como descortinaram os saberes das artes de curas praticados por suas populações. Este simpósio propõe reunir as pesquisas que tratam desse tema na Amazônia, revelando os processos metodológicos utilizados em suas pesquisas históricas. 
+    "
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 103
+  title: "O ensino de história da África e cultura afro-brasileira no Brasil"
+  description: "O presente Simpósio Temático pretende discutir as experiências sobre o Ensino da história e cultura afro-brasileira e africana no Brasil, uma vez que a partir da Lei 10.639/03 a temática tornou-se  obrigatória em todas as escolas, públicas e particulares, do ensino fundamental até o ensino médio. No Amazonas, é muito difundida a idéia de uma quase inexistência histórica da presença negra no Estado. O Simpósio pretende reunir trabalhos de pesquisa histórica na temática e experiências docentes em todos os níveis de ensino (fundamental, médio e superior) nesse campo de estudo. No Brasil, nos últimos anos, este campo de estudo teve um crescimento significativo e qualificado. Neste simpósio, discutiremos as temáticas previstas no âmbito da lei nas seguintes linhas: História da África e dos Africanos; a luta dos negros no Brasil; cultura negra brasileira; o negro na formação da sociedade nacional.
+    "
+  subtype: presentation
+  speakers: [5,6]
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 104
+  title: "Cultura, Trabalho e Cidade: possibilidades em História da Amazônia"
+  description: "O Simpósio Temático se propõe reunir estudantes de História (em formação ou já graduados) e áreas afins para discutir e debater as inovações em pesquisa e escrita da História em nosso Estado nas dimensões dos eixos CULTURA, TRABALHO E CIDADE, tão caros em historiografia na atualidade. 
+    As inovações advindas da CULTURA como constitutiva do social, possibilitou aos historiadores se aventurarem num extenso leque de possibilidades de pesquisa. Pesquisar sobre TRABALHO e trabalhadores torna-se uma forma digna de apresentar diferentes agentes sociais que também estavam na História, mesmo que uma narrativa mais celebrativa os tenha marginalizado. A CIDADE por acolher diferentes sujeitos, torna-se palco dos acontecimentos. É na cidade que vemos as ambigüidades do processo histórico, é nela que vemos as lutas, as resistências, muitas vezes, a cidade torna-se uma representação de um ideal, mas de quem é esse ideal? Quem projetou a cidade?
+    Quando nos voltamos a analisar, ou historicizar a Amazônia, os três eixos apontados assumem uma posição muito destacada. Pela diversidade cultural, social e étnica falar em Cultura, Trabalho e Cidade na Amazônia é algo sempre fascinante e atemporal. Portanto, trabalhos que contemplem essas questões, que partam da aceitação de que História é sempre complexa, múltipla e fazer História é estar aberto a diversas possibilidades, serão bem-vindos para juntos vermos e contribuirmos para História da nossa Amazônia em diversos períodos da História."
+  subtype: presentation
+  speakers: [7,8]
+-
+  id: 201
+  title: "Ensino da História e história em quadrinhos"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+-
+  id: 202
+  title: "História Indígena"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+-
+  id: 203
+  title: "História e meio ambiente"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+-
+  id: 204
+  title: "A relação entre o arquivo e a sociedade na esfera cultural, governo e cidadania"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+-
+  id: 205
+  title: "O ensino de História e a Lei n.10.639/2003"
+  description: ""
+  subtype: presentation
+  speakers: [13]
+-
+  id: 301
+  title: "Meda Redonda- O estado democrático de direito e respeiro à Diversidade"
+  description: ""
+  subtype: presentation
+  speakers: [14,15,16]
+-
+  id: 302
+  title: "Assembleia ANPUH-AM"
+  subtype: assembleia

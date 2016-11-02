@@ -1,67 +1,150 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  id: 1
+  name: "José Maia Bezerra Neto"
+  surname: ""
+  company: "Universidade Federal do Para"
+  title: "Escravidão Negra no Grão-Pará (séculos XVII e XIX)"
+  bio: ""
+  thumbnailUrl: lorem1.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  id: 2
+  name: "Patrícia Sampaio"
+  surname: ""
+  company: "Universidade Federal do Amazonas"
+  title: ""
+  bio: ""
+  thumbnailUrl: lorem2.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+ #   social: 
+ #     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+
+- 
+  id: 3
+  name: "Jaime Ricardo Teixeira Gouveia"
+  surname: "Jaime"
+  company: "Universidade Federal do Amazonas"
+  title: "Professor"
+  bio: ' Jaime Ricardo Gouveia é licenciado em História pela Univ. de Coimbra - Portugal (2004); mestre em História Moderna pela Univ. de Coimbra - Portugal (2007); doutor em História e Civilização pelo Instituto Universitário Europeu de Florença - Itália (2011). É especialista em História Religiosa e Eclesiástica e atualmente é investigador integrado de três Centros de Pesquisa em Portugal e simultaneamente professor visitante da UFAM (PNPD-CAPES). '
+  thumbnailUrl: lorem1.jpg
+  rockstar: true
+-
+  id: 4
+  name: "Júlio Santos Silva"
+  surname: "Júlio"
+  company: "uninilton lins"
+  title: "Professor"
+  bio: "úlio Santos Silva é Especialista em História da Saúde da Amazônia pelo ILMD/COC-FIOCRUZ. Mestre em História pela Universidade Federal do Amazonas. Membro do Instituto Histórico e Geográfico do Amazonas - IGHA. Professor do Curso de História da UNINILTONLINS e da SEMED." 
+  thumbnailUrl: lorem1.jpg
+  rockstar: true
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+  name: "Hilderaldo Lima da Costa"
+  surname: "Hilderaldo"
+  company: "Universidade Federal do Amazonas"
+  title: "Professor"
+  bio: "Hideraldo Lima da Costa é Doutor em História pela Pontifícia Universidade Católica de São Paulo.  Professor do Departamento de História da UFAM. Coordena o Programa de Extensão Nossa África." 
+  thumbnailUrl: lorem1.jpg
+  rockstar: true 
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Lídia Helena de Oliveira"
+  surname: "Lídia"
+  company: "SEMED"
+  title: "Coordenadora da Diversidade"
+  bio: "Lídia Helena de Oliveira Moreira é Especialista em História, cultura africana e afro-brasileira. Assessora de História e Coordenadora da Diversidade na SEMED.  Coordenadora do Grupo de Estudo e Pesquisa em História do Amazonas – GEPHAM, e da Comissão de Estudo e Pesquisas do Fórum Permanente de Educação e Diversidade – FOPEDER e articuladora do Núcleo de Estudo e Pesquisa Interdisciplinar em Diversidade – NEPID."
+  thumbnailUrl: lorem2.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Bruno Miranda Braga"
+  surname: "Bruno"
+  company: "CAHIA"
+  title: "Pesquisador"
+  bio: "Bruno Miranda Braga é Mestre em História Social pelo Programa de Pós-Graduação em História da UFAM. Membro do Grupo de pesquisa em Cultura e Historiografia na Amazônia – CAHIAM. Realiza pesquisas sobre as culturas indígenas no Amazonas Imperial."
+  thumbnailUrl: lorem1.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Maria de Jesus do Carmo de Araújo"
+  surname: "Maria"
+  company: "SEDUC"
+  title: "Professora"
+  bio: "Maria de Jesus do Carmo de Araújo é mestranda em História Social no Programa de Pós-Graduação em História da UFAM. Professora da Rede Estadual de Ensino do Amazonas SEDUC-AM. "
+  thumbnailUrl: lorem2.jpg
+  rockstar: true
+- 
+  id: 9
+  name: "Tarcísio Serpa"
+  surname: ""
+  company: "IFAM"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: lorem1.jpg
+  rockstar: true
+- 
+  id: 10
+  name: "Letícia Alves"
+  surname: ""
+  company: "IFAM"
+  title: "Professora"
+  bio: ""
+  thumbnailUrl: lorem2.jpg
+  rockstar: true
+- 
+  id: 11
+  name: " Nasthya Garcia "
+  surname: ""
+  company: "Uninorte"
+  title: "Professora"
+  bio: ""
+  thumbnailUrl: lorem2.jpg
+  rockstar: true
+- 
+  id: 12
+  name: "Marcelo Kosawa"
+  surname: ""
+  company: "UFAM"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: lorem1.jpg
+  rockstar: true
+- 
+  id: 13
+  name: "Lídia Moreira"
+  surname: ""
+  company: "SEMED, SEDUC"
+  title: ""
+  bio: ""
+  thumbnailUrl: lorem2.jpg
+  rockstar: true
+- 
+  id: 14
+  name: "Tarcísio Serpa Normando"
+  surname: ""
+  company: "IFAM"
+  title: "Professor Doutor"
+  bio: ""
+  thumbnailUrl: lorem1.jpg
+  rockstar: true
+- 
+  id: 15
+  name: "Cristiane Manique"
+  surname: ""
+  company: "Uninorte"
+  title: "Professora Mestre"
+  bio: ""
+  thumbnailUrl: lorem2.jpg
+  rockstar: true
+- 
+  id: 16
+  name: "Raimundo Nonato Pereira da Silva"
+  surname: ""
+  company: "IFAM"
+  title: "Professor Doutor"
+  bio: ""
+  thumbnailUrl: lorem1.jpg
+  rockstar: true
